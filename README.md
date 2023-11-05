@@ -6,7 +6,7 @@ Submitted by:
 - **Romain Dzeinse**
 - **Asit Das**
 - **Yen Nguyen**
-- **Arthur**
+- **Arthur Cheung**
 
 Time spent: **X** hours spent in total
 
